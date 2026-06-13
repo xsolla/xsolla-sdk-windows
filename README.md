@@ -1,5 +1,7 @@
 # Xsolla Mobile SDK for Windows
 
+![License](https://img.shields.io/github/license/xsolla/xsolla-sdk-windows)
+![Latest release](https://img.shields.io/github/v/release/xsolla/xsolla-sdk-windows)
 [![.NET 6+](https://img.shields.io/badge/.NET-6.0%2B-blue.svg)](https://dotnet.microsoft.com/)
 [![C++](https://img.shields.io/badge/C%2B%2B-17-orange.svg)](https://isocpp.org/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](LICENSE)
@@ -128,3 +130,12 @@ Coming soon.
 ## License
 
 [Apache License 2.0](LICENSE) — Copyright 2026 Xsolla Inc.
+
+## Support
+
+- **GitHub Issues:** [github.com/xsolla/xsolla-sdk-windows/issues](https://github.com/xsolla/xsolla-sdk-windows/issues)
+- **Developer portal:** [developers.xsolla.com](https://developers.xsolla.com)
+
+## License
+
+Apache 2.0 License. See [LICENSE](./LICENSE).
