@@ -1,4 +1,4 @@
-# Xsolla Mobile SDK for Windows
+# Xsolla SDK for Windows
 
 ![License](https://img.shields.io/github/license/xsolla/xsolla-sdk-windows)
 ![Latest release](https://img.shields.io/github/v/release/xsolla/xsolla-sdk-windows)
@@ -12,7 +12,7 @@ Pre-built native SDKs for integrating in-game payments into your Windows app via
 
 See exactly how payments work before writing a single line of code. The SDK Explorer lets you walk through authentication, catalog loading, purchasing, and finalization — all in an interactive environment.
 
-[![SDK Explorer — interactive demo of Xsolla Mobile SDK payment flow](readme-assets/explorer.png)](https://developers.xsolla.com/sdk/demo/)
+[![SDK Explorer — interactive demo of Xsolla SDK payment flow](readme-assets/explorer.png)](https://developers.xsolla.com/sdk/demo/)
 
 [**Integrate Now →**](https://developers.xsolla.com/sdk/demo/)
 
@@ -23,7 +23,7 @@ See exactly how payments work before writing a single line of code. The SDK Expl
 
 ## Overview
 
-Xsolla Mobile SDK for Windows provides native C# and C++ libraries for in-game purchases via Xsolla Pay Station. Both SDKs share the same backend infrastructure and offer equivalent functionality.
+Xsolla SDK for Windows provides native C# and C++ libraries for in-game purchases via Xsolla Pay Station. Both SDKs share the same backend infrastructure and offer equivalent functionality.
 
 **Key features:**
 
